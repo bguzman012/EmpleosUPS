@@ -1,0 +1,7 @@
+{
+  "name": "EmpleosUPS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
